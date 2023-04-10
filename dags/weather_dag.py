@@ -21,7 +21,7 @@ with DAG(
 
 	def extraction(data_interval_end):
 		city = 'SaoPaulo'
-		key = 'TQP5WZSYY6STLLS977A5564JY'
+		key = 'xpto'
 
 
 		URL = join('https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/',
