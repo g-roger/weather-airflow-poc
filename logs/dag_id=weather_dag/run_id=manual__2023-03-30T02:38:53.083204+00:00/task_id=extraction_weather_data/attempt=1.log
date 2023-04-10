@@ -1,0 +1,23 @@
+[2023-03-29 23:38:57,230] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: weather_dag.extraction_weather_data manual__2023-03-30T02:38:53.083204+00:00 [queued]>
+[2023-03-29 23:38:57,233] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: weather_dag.extraction_weather_data manual__2023-03-30T02:38:53.083204+00:00 [queued]>
+[2023-03-29 23:38:57,234] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-29 23:38:57,234] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2023-03-29 23:38:57,234] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-29 23:38:57,239] {taskinstance.py:1377} INFO - Executing <Task(PythonOperator): extraction_weather_data> on 2023-03-30 02:38:53.083204+00:00
+[2023-03-29 23:38:57,243] {standard_task_runner.py:52} INFO - Started process 13605 to run task
+[2023-03-29 23:38:57,247] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'weather_dag', 'extraction_weather_data', 'manual__2023-03-30T02:38:53.083204+00:00', '--job-id', '71', '--raw', '--subdir', 'DAGS_FOLDER/weather_dag.py', '--cfg-path', '/var/folders/1t/ncp0s87s3bd37gfvks3bsb3w0000gn/T/tmp84q63s47', '--error-file', '/var/folders/1t/ncp0s87s3bd37gfvks3bsb3w0000gn/T/tmpl4ymr_5p']
+[2023-03-29 23:38:57,248] {standard_task_runner.py:80} INFO - Job 71: Subtask extraction_weather_data
+[2023-03-29 23:38:57,271] {task_command.py:370} INFO - Running <TaskInstance: weather_dag.extraction_weather_data manual__2023-03-30T02:38:53.083204+00:00 [running]> on host 1.0.0.127.in-addr.arpa
+[2023-03-29 23:38:57,294] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=weather_dag
+AIRFLOW_CTX_TASK_ID=extraction_weather_data
+AIRFLOW_CTX_EXECUTION_DATE=2023-03-30T02:38:53.083204+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-03-30T02:38:53.083204+00:00
+[2023-03-29 23:38:58,258] {python.py:173} INFO - Done. Returned value was: None
+[2023-03-29 23:38:58,267] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=weather_dag, task_id=extraction_weather_data, execution_date=20230330T023853, start_date=20230330T023857, end_date=20230330T023858
+[2023-03-29 23:38:58,285] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-03-29 23:38:58,301] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

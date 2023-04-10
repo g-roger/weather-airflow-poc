@@ -1,0 +1,27 @@
+[2023-03-29 23:13:47,875] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: weather_dag.create_folder scheduled__2023-03-20T00:00:00+00:00 [queued]>
+[2023-03-29 23:13:47,878] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: weather_dag.create_folder scheduled__2023-03-20T00:00:00+00:00 [queued]>
+[2023-03-29 23:13:47,878] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-29 23:13:47,878] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2023-03-29 23:13:47,878] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-29 23:13:47,883] {taskinstance.py:1377} INFO - Executing <Task(BashOperator): create_folder> on 2023-03-20 00:00:00+00:00
+[2023-03-29 23:13:47,888] {standard_task_runner.py:52} INFO - Started process 10968 to run task
+[2023-03-29 23:13:47,892] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'weather_dag', 'create_folder', 'scheduled__2023-03-20T00:00:00+00:00', '--job-id', '46', '--raw', '--subdir', 'DAGS_FOLDER/weather_dag.py', '--cfg-path', '/var/folders/1t/ncp0s87s3bd37gfvks3bsb3w0000gn/T/tmpapyu094g', '--error-file', '/var/folders/1t/ncp0s87s3bd37gfvks3bsb3w0000gn/T/tmpnnz96bls']
+[2023-03-29 23:13:47,894] {standard_task_runner.py:80} INFO - Job 46: Subtask create_folder
+[2023-03-29 23:13:47,930] {task_command.py:370} INFO - Running <TaskInstance: weather_dag.create_folder scheduled__2023-03-20T00:00:00+00:00 [running]> on host 1.0.0.127.in-addr.arpa
+[2023-03-29 23:13:47,955] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=weather_dag
+AIRFLOW_CTX_TASK_ID=create_folder
+AIRFLOW_CTX_EXECUTION_DATE=2023-03-20T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-03-20T00:00:00+00:00
+[2023-03-29 23:13:47,955] {subprocess.py:62} INFO - Tmp dir root location: 
+ /var/folders/1t/ncp0s87s3bd37gfvks3bsb3w0000gn/T
+[2023-03-29 23:13:47,956] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'mkdir -p "/Users/gabrielroger/Documents/projects/weather-data/week=2023-03-27"']
+[2023-03-29 23:13:47,966] {subprocess.py:85} INFO - Output:
+[2023-03-29 23:13:47,984] {subprocess.py:96} INFO - Command exited with return code 0
+[2023-03-29 23:13:47,996] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=weather_dag, task_id=create_folder, execution_date=20230320T000000, start_date=20230330T021347, end_date=20230330T021347
+[2023-03-29 23:13:48,042] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-03-29 23:13:48,057] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

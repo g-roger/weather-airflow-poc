@@ -1,0 +1,273 @@
+[2023-03-27 21:09:34,490] {processor.py:153} INFO - Started process (PID=6022) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:09:34,490] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:09:34,490] {logging_mixin.py:115} INFO - [2023-03-27 21:09:34,490] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:09:34,498] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:09:34,817] {logging_mixin.py:115} INFO - [2023-03-27 21:09:34,817] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:09:34,824] {logging_mixin.py:115} INFO - [2023-03-27 21:09:34,824] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-27T00:00:00+00:00, run_after=2023-03-28T00:00:00+00:00
+[2023-03-27 21:09:34,830] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.341 seconds
+[2023-03-27 21:10:27,464] {processor.py:153} INFO - Started process (PID=6125) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:10:27,465] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:10:27,465] {logging_mixin.py:115} INFO - [2023-03-27 21:10:27,465] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:10:27,473] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:10:27,503] {logging_mixin.py:115} INFO - [2023-03-27 21:10:27,503] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:10:27,510] {logging_mixin.py:115} INFO - [2023-03-27 21:10:27,510] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:10:27,515] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.052 seconds
+[2023-03-27 21:11:11,946] {processor.py:153} INFO - Started process (PID=6203) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:11:11,947] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:11:11,947] {logging_mixin.py:115} INFO - [2023-03-27 21:11:11,947] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:11:11,955] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:11:11,985] {logging_mixin.py:115} INFO - [2023-03-27 21:11:11,985] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:11:11,993] {logging_mixin.py:115} INFO - [2023-03-27 21:11:11,993] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:11:11,998] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.052 seconds
+[2023-03-27 21:11:56,371] {processor.py:153} INFO - Started process (PID=6276) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:11:56,372] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:11:56,372] {logging_mixin.py:115} INFO - [2023-03-27 21:11:56,372] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:11:56,380] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:11:56,410] {logging_mixin.py:115} INFO - [2023-03-27 21:11:56,410] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:11:56,417] {logging_mixin.py:115} INFO - [2023-03-27 21:11:56,417] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:11:56,423] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.052 seconds
+[2023-03-27 21:12:44,864] {processor.py:153} INFO - Started process (PID=6355) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:12:44,865] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:12:44,865] {logging_mixin.py:115} INFO - [2023-03-27 21:12:44,865] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:12:44,873] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:12:44,902] {logging_mixin.py:115} INFO - [2023-03-27 21:12:44,902] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:12:44,910] {logging_mixin.py:115} INFO - [2023-03-27 21:12:44,909] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:12:44,915] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.051 seconds
+[2023-03-27 21:13:30,611] {processor.py:153} INFO - Started process (PID=6429) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:13:30,611] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:13:30,611] {logging_mixin.py:115} INFO - [2023-03-27 21:13:30,611] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:13:30,618] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:13:30,647] {logging_mixin.py:115} INFO - [2023-03-27 21:13:30,647] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:13:30,654] {logging_mixin.py:115} INFO - [2023-03-27 21:13:30,654] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:13:30,660] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.050 seconds
+[2023-03-27 21:14:13,098] {processor.py:153} INFO - Started process (PID=6505) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:14:13,099] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:14:13,099] {logging_mixin.py:115} INFO - [2023-03-27 21:14:13,099] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:14:13,107] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:14:13,137] {logging_mixin.py:115} INFO - [2023-03-27 21:14:13,137] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:14:13,144] {logging_mixin.py:115} INFO - [2023-03-27 21:14:13,144] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:14:13,149] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.052 seconds
+[2023-03-27 21:14:51,762] {processor.py:153} INFO - Started process (PID=6570) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:14:51,763] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:14:51,763] {logging_mixin.py:115} INFO - [2023-03-27 21:14:51,763] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:14:51,771] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:14:51,801] {logging_mixin.py:115} INFO - [2023-03-27 21:14:51,801] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:14:51,808] {logging_mixin.py:115} INFO - [2023-03-27 21:14:51,808] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:14:51,813] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.052 seconds
+[2023-03-27 21:15:35,513] {processor.py:153} INFO - Started process (PID=6641) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:15:35,513] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:15:35,513] {logging_mixin.py:115} INFO - [2023-03-27 21:15:35,513] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:15:35,521] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:15:35,551] {logging_mixin.py:115} INFO - [2023-03-27 21:15:35,551] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:15:35,558] {logging_mixin.py:115} INFO - [2023-03-27 21:15:35,558] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:15:35,564] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.051 seconds
+[2023-03-27 21:16:18,896] {processor.py:153} INFO - Started process (PID=6713) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:16:18,897] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:16:18,897] {logging_mixin.py:115} INFO - [2023-03-27 21:16:18,897] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:16:18,905] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:16:18,935] {logging_mixin.py:115} INFO - [2023-03-27 21:16:18,935] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:16:18,942] {logging_mixin.py:115} INFO - [2023-03-27 21:16:18,942] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:16:18,947] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.051 seconds
+[2023-03-27 21:17:03,161] {processor.py:153} INFO - Started process (PID=6787) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:17:03,161] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:17:03,161] {logging_mixin.py:115} INFO - [2023-03-27 21:17:03,161] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:17:03,168] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:17:03,197] {logging_mixin.py:115} INFO - [2023-03-27 21:17:03,197] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:17:03,205] {logging_mixin.py:115} INFO - [2023-03-27 21:17:03,205] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:17:03,210] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.050 seconds
+[2023-03-27 21:17:45,799] {processor.py:153} INFO - Started process (PID=6856) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:17:45,800] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:17:45,800] {logging_mixin.py:115} INFO - [2023-03-27 21:17:45,800] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:17:45,807] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:17:45,836] {logging_mixin.py:115} INFO - [2023-03-27 21:17:45,836] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:17:45,844] {logging_mixin.py:115} INFO - [2023-03-27 21:17:45,844] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:17:45,849] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.050 seconds
+[2023-03-27 21:18:28,414] {processor.py:153} INFO - Started process (PID=6928) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:18:28,414] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:18:28,414] {logging_mixin.py:115} INFO - [2023-03-27 21:18:28,414] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:18:28,422] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:18:28,452] {logging_mixin.py:115} INFO - [2023-03-27 21:18:28,452] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:18:28,459] {logging_mixin.py:115} INFO - [2023-03-27 21:18:28,459] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:18:28,464] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.051 seconds
+[2023-03-27 21:19:11,993] {processor.py:153} INFO - Started process (PID=7006) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:19:11,994] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:19:11,994] {logging_mixin.py:115} INFO - [2023-03-27 21:19:11,994] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:19:12,002] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:19:12,032] {logging_mixin.py:115} INFO - [2023-03-27 21:19:12,032] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:19:12,039] {logging_mixin.py:115} INFO - [2023-03-27 21:19:12,039] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:19:12,044] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.051 seconds
+[2023-03-27 21:19:55,566] {processor.py:153} INFO - Started process (PID=7078) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:19:55,566] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:19:55,566] {logging_mixin.py:115} INFO - [2023-03-27 21:19:55,566] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:19:55,573] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:19:55,602] {logging_mixin.py:115} INFO - [2023-03-27 21:19:55,602] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:19:55,609] {logging_mixin.py:115} INFO - [2023-03-27 21:19:55,609] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:19:55,615] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.049 seconds
+[2023-03-27 21:20:41,301] {processor.py:153} INFO - Started process (PID=7154) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:20:41,302] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:20:41,302] {logging_mixin.py:115} INFO - [2023-03-27 21:20:41,302] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:20:41,309] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:20:41,338] {logging_mixin.py:115} INFO - [2023-03-27 21:20:41,338] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:20:41,345] {logging_mixin.py:115} INFO - [2023-03-27 21:20:41,345] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:20:41,351] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.050 seconds
+[2023-03-27 21:21:26,452] {processor.py:153} INFO - Started process (PID=7226) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:21:26,452] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:21:26,452] {logging_mixin.py:115} INFO - [2023-03-27 21:21:26,452] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:21:26,459] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:21:26,488] {logging_mixin.py:115} INFO - [2023-03-27 21:21:26,488] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:21:26,496] {logging_mixin.py:115} INFO - [2023-03-27 21:21:26,496] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:21:26,501] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.049 seconds
+[2023-03-27 21:22:12,165] {processor.py:153} INFO - Started process (PID=7301) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:22:12,165] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:22:12,165] {logging_mixin.py:115} INFO - [2023-03-27 21:22:12,165] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:22:12,172] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:22:12,202] {logging_mixin.py:115} INFO - [2023-03-27 21:22:12,202] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:22:12,209] {logging_mixin.py:115} INFO - [2023-03-27 21:22:12,209] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:22:12,215] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.050 seconds
+[2023-03-27 21:22:56,897] {processor.py:153} INFO - Started process (PID=7377) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:22:56,897] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:22:56,897] {logging_mixin.py:115} INFO - [2023-03-27 21:22:56,897] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:22:56,904] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:22:56,934] {logging_mixin.py:115} INFO - [2023-03-27 21:22:56,933] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:22:56,941] {logging_mixin.py:115} INFO - [2023-03-27 21:22:56,941] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:22:56,947] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.050 seconds
+[2023-03-27 21:23:39,176] {processor.py:153} INFO - Started process (PID=7448) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:23:39,176] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:23:39,176] {logging_mixin.py:115} INFO - [2023-03-27 21:23:39,176] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:23:39,183] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:23:39,213] {logging_mixin.py:115} INFO - [2023-03-27 21:23:39,213] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:23:39,220] {logging_mixin.py:115} INFO - [2023-03-27 21:23:39,220] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:23:39,226] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.050 seconds
+[2023-03-27 21:24:23,947] {processor.py:153} INFO - Started process (PID=7530) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:24:23,947] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:24:23,947] {logging_mixin.py:115} INFO - [2023-03-27 21:24:23,947] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:24:23,956] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:24:23,985] {logging_mixin.py:115} INFO - [2023-03-27 21:24:23,985] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:24:23,993] {logging_mixin.py:115} INFO - [2023-03-27 21:24:23,993] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:24:23,999] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.052 seconds
+[2023-03-27 21:25:08,650] {processor.py:153} INFO - Started process (PID=7629) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:25:08,650] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:25:08,651] {logging_mixin.py:115} INFO - [2023-03-27 21:25:08,651] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:25:08,658] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:25:08,688] {logging_mixin.py:115} INFO - [2023-03-27 21:25:08,688] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:25:08,695] {logging_mixin.py:115} INFO - [2023-03-27 21:25:08,695] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:25:08,700] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.050 seconds
+[2023-03-27 21:25:50,866] {processor.py:153} INFO - Started process (PID=7711) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:25:50,866] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:25:50,866] {logging_mixin.py:115} INFO - [2023-03-27 21:25:50,866] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:25:50,874] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:25:50,904] {logging_mixin.py:115} INFO - [2023-03-27 21:25:50,904] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:25:50,911] {logging_mixin.py:115} INFO - [2023-03-27 21:25:50,911] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:25:50,917] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.051 seconds
+[2023-03-27 21:26:36,427] {processor.py:153} INFO - Started process (PID=7786) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:26:36,428] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:26:36,428] {logging_mixin.py:115} INFO - [2023-03-27 21:26:36,428] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:26:36,435] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:26:36,464] {logging_mixin.py:115} INFO - [2023-03-27 21:26:36,464] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:26:36,471] {logging_mixin.py:115} INFO - [2023-03-27 21:26:36,471] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:26:36,476] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.049 seconds
+[2023-03-27 21:27:21,706] {processor.py:153} INFO - Started process (PID=7861) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:27:21,707] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:27:21,707] {logging_mixin.py:115} INFO - [2023-03-27 21:27:21,707] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:27:21,714] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:27:21,743] {logging_mixin.py:115} INFO - [2023-03-27 21:27:21,743] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:27:21,750] {logging_mixin.py:115} INFO - [2023-03-27 21:27:21,750] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:27:21,756] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.049 seconds
+[2023-03-27 21:28:04,579] {processor.py:153} INFO - Started process (PID=7932) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:28:04,580] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:28:04,580] {logging_mixin.py:115} INFO - [2023-03-27 21:28:04,580] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:28:04,587] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:28:04,616] {logging_mixin.py:115} INFO - [2023-03-27 21:28:04,616] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:28:04,623] {logging_mixin.py:115} INFO - [2023-03-27 21:28:04,623] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:28:04,629] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.049 seconds
+[2023-03-27 21:28:47,203] {processor.py:153} INFO - Started process (PID=8015) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:28:47,203] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:28:47,203] {logging_mixin.py:115} INFO - [2023-03-27 21:28:47,203] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:28:47,211] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:28:47,240] {logging_mixin.py:115} INFO - [2023-03-27 21:28:47,240] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:28:47,247] {logging_mixin.py:115} INFO - [2023-03-27 21:28:47,247] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:28:47,253] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.050 seconds
+[2023-03-27 21:29:29,279] {processor.py:153} INFO - Started process (PID=8095) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:29:29,279] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:29:29,279] {logging_mixin.py:115} INFO - [2023-03-27 21:29:29,279] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:29:29,286] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:29:29,316] {logging_mixin.py:115} INFO - [2023-03-27 21:29:29,316] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:29:29,323] {logging_mixin.py:115} INFO - [2023-03-27 21:29:29,323] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:29:29,328] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.050 seconds
+[2023-03-27 21:30:13,082] {processor.py:153} INFO - Started process (PID=8196) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:30:13,083] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:30:13,084] {logging_mixin.py:115} INFO - [2023-03-27 21:30:13,084] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:30:13,091] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:30:13,121] {logging_mixin.py:115} INFO - [2023-03-27 21:30:13,120] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:30:13,128] {logging_mixin.py:115} INFO - [2023-03-27 21:30:13,128] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:30:13,133] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.051 seconds
+[2023-03-27 21:30:55,340] {processor.py:153} INFO - Started process (PID=8267) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:30:55,340] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:30:55,341] {logging_mixin.py:115} INFO - [2023-03-27 21:30:55,341] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:30:55,348] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:30:55,378] {logging_mixin.py:115} INFO - [2023-03-27 21:30:55,378] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:30:55,385] {logging_mixin.py:115} INFO - [2023-03-27 21:30:55,385] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:30:55,390] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.050 seconds
+[2023-03-27 21:31:38,671] {processor.py:153} INFO - Started process (PID=8338) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:31:38,671] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:31:38,671] {logging_mixin.py:115} INFO - [2023-03-27 21:31:38,671] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:31:38,678] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:31:38,708] {logging_mixin.py:115} INFO - [2023-03-27 21:31:38,708] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:31:38,715] {logging_mixin.py:115} INFO - [2023-03-27 21:31:38,715] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:31:38,720] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.050 seconds
+[2023-03-27 21:32:22,238] {processor.py:153} INFO - Started process (PID=8410) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:32:22,238] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:32:22,238] {logging_mixin.py:115} INFO - [2023-03-27 21:32:22,238] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:32:22,245] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:32:22,275] {logging_mixin.py:115} INFO - [2023-03-27 21:32:22,275] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:32:22,282] {logging_mixin.py:115} INFO - [2023-03-27 21:32:22,282] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:32:22,287] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.050 seconds
+[2023-03-27 21:33:07,189] {processor.py:153} INFO - Started process (PID=8484) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:33:07,189] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:33:07,189] {logging_mixin.py:115} INFO - [2023-03-27 21:33:07,189] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:33:07,196] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:33:07,225] {logging_mixin.py:115} INFO - [2023-03-27 21:33:07,225] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:33:07,232] {logging_mixin.py:115} INFO - [2023-03-27 21:33:07,232] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:33:07,238] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.049 seconds
+[2023-03-27 21:33:51,916] {processor.py:153} INFO - Started process (PID=8563) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:33:51,917] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:33:51,917] {logging_mixin.py:115} INFO - [2023-03-27 21:33:51,917] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:33:51,924] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:33:51,953] {logging_mixin.py:115} INFO - [2023-03-27 21:33:51,953] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:33:51,960] {logging_mixin.py:115} INFO - [2023-03-27 21:33:51,960] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:33:51,966] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.049 seconds
+[2023-03-27 21:34:36,112] {processor.py:153} INFO - Started process (PID=8649) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:34:36,113] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:34:36,114] {logging_mixin.py:115} INFO - [2023-03-27 21:34:36,114] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:34:36,121] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:34:36,150] {logging_mixin.py:115} INFO - [2023-03-27 21:34:36,150] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:34:36,157] {logging_mixin.py:115} INFO - [2023-03-27 21:34:36,157] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:34:36,162] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.050 seconds
+[2023-03-27 21:59:34,107] {processor.py:153} INFO - Started process (PID=8716) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:59:34,108] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 21:59:34,108] {logging_mixin.py:115} INFO - [2023-03-27 21:59:34,108] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:59:34,116] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 21:59:34,145] {logging_mixin.py:115} INFO - [2023-03-27 21:59:34,145] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:59:34,152] {logging_mixin.py:115} INFO - [2023-03-27 21:59:34,152] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:59:34,157] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.050 seconds
+[2023-03-27 22:00:18,202] {processor.py:153} INFO - Started process (PID=8803) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 22:00:18,203] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 22:00:18,204] {logging_mixin.py:115} INFO - [2023-03-27 22:00:18,204] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 22:00:18,211] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 22:00:18,243] {logging_mixin.py:115} INFO - [2023-03-27 22:00:18,243] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 22:00:18,250] {logging_mixin.py:115} INFO - [2023-03-27 22:00:18,250] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 22:00:18,255] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.053 seconds
+[2023-03-27 22:08:01,547] {processor.py:153} INFO - Started process (PID=8854) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 22:08:01,548] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 22:08:01,548] {logging_mixin.py:115} INFO - [2023-03-27 22:08:01,548] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 22:08:01,556] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 22:08:01,585] {logging_mixin.py:115} INFO - [2023-03-27 22:08:01,585] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 22:08:01,592] {logging_mixin.py:115} INFO - [2023-03-27 22:08:01,592] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 22:08:01,597] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.050 seconds
+[2023-03-27 23:12:00,423] {processor.py:153} INFO - Started process (PID=8964) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 23:12:00,423] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py for tasks to queue
+[2023-03-27 23:12:00,423] {logging_mixin.py:115} INFO - [2023-03-27 23:12:00,423] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 23:12:00,432] {processor.py:651} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py
+[2023-03-27 23:12:00,482] {logging_mixin.py:115} INFO - [2023-03-27 23:12:00,482] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 23:12:00,491] {logging_mixin.py:115} INFO - [2023-03-27 23:12:00,491] {dag.py:2927} INFO - Setting next_dagrun for first_dag to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 23:12:00,496] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/first_dag.py took 0.074 seconds

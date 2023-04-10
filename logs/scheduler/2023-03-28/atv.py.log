@@ -1,0 +1,277 @@
+[2023-03-27 21:09:32,074] {processor.py:153} INFO - Started process (PID=6013) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:09:32,075] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:09:32,075] {logging_mixin.py:115} INFO - [2023-03-27 21:09:32,075] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:09:32,100] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:09:32,754] {logging_mixin.py:115} INFO - [2023-03-27 21:09:32,753] {manager.py:508} INFO - Created Permission View: can delete on DAG:atv
+[2023-03-27 21:09:32,759] {logging_mixin.py:115} INFO - [2023-03-27 21:09:32,759] {manager.py:508} INFO - Created Permission View: can read on DAG:atv
+[2023-03-27 21:09:32,762] {logging_mixin.py:115} INFO - [2023-03-27 21:09:32,762] {manager.py:508} INFO - Created Permission View: can edit on DAG:atv
+[2023-03-27 21:09:32,762] {logging_mixin.py:115} INFO - [2023-03-27 21:09:32,762] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:09:32,767] {logging_mixin.py:115} INFO - [2023-03-27 21:09:32,766] {dag.py:2398} INFO - Creating ORM DAG for atv
+[2023-03-27 21:09:32,773] {logging_mixin.py:115} INFO - [2023-03-27 21:09:32,773] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-27T00:00:00+00:00, run_after=2023-03-28T00:00:00+00:00
+[2023-03-27 21:09:32,780] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.707 seconds
+[2023-03-27 21:10:26,627] {processor.py:153} INFO - Started process (PID=6123) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:10:26,628] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:10:26,628] {logging_mixin.py:115} INFO - [2023-03-27 21:10:26,628] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:10:26,642] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:10:26,672] {logging_mixin.py:115} INFO - [2023-03-27 21:10:26,672] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:10:26,680] {logging_mixin.py:115} INFO - [2023-03-27 21:10:26,680] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:10:26,684] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.057 seconds
+[2023-03-27 21:11:10,370] {processor.py:153} INFO - Started process (PID=6201) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:11:10,371] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:11:10,371] {logging_mixin.py:115} INFO - [2023-03-27 21:11:10,371] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:11:10,386] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:11:10,416] {logging_mixin.py:115} INFO - [2023-03-27 21:11:10,416] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:11:10,424] {logging_mixin.py:115} INFO - [2023-03-27 21:11:10,424] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:11:10,429] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.059 seconds
+[2023-03-27 21:11:54,795] {processor.py:153} INFO - Started process (PID=6274) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:11:54,796] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:11:54,796] {logging_mixin.py:115} INFO - [2023-03-27 21:11:54,796] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:11:54,810] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:11:54,840] {logging_mixin.py:115} INFO - [2023-03-27 21:11:54,840] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:11:54,848] {logging_mixin.py:115} INFO - [2023-03-27 21:11:54,848] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:11:54,853] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.058 seconds
+[2023-03-27 21:12:43,280] {processor.py:153} INFO - Started process (PID=6352) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:12:43,281] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:12:43,281] {logging_mixin.py:115} INFO - [2023-03-27 21:12:43,281] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:12:43,295] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:12:43,325] {logging_mixin.py:115} INFO - [2023-03-27 21:12:43,325] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:12:43,332] {logging_mixin.py:115} INFO - [2023-03-27 21:12:43,332] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:12:43,337] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.057 seconds
+[2023-03-27 21:13:29,084] {processor.py:153} INFO - Started process (PID=6427) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:13:29,084] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:13:29,084] {logging_mixin.py:115} INFO - [2023-03-27 21:13:29,084] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:13:29,098] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:13:29,127] {logging_mixin.py:115} INFO - [2023-03-27 21:13:29,127] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:13:29,135] {logging_mixin.py:115} INFO - [2023-03-27 21:13:29,135] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:13:29,140] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.056 seconds
+[2023-03-27 21:14:12,512] {processor.py:153} INFO - Started process (PID=6503) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:14:12,513] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:14:12,513] {logging_mixin.py:115} INFO - [2023-03-27 21:14:12,513] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:14:12,528] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:14:12,558] {logging_mixin.py:115} INFO - [2023-03-27 21:14:12,558] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:14:12,566] {logging_mixin.py:115} INFO - [2023-03-27 21:14:12,566] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:14:12,570] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.058 seconds
+[2023-03-27 21:14:50,912] {processor.py:153} INFO - Started process (PID=6568) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:14:50,913] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:14:50,913] {logging_mixin.py:115} INFO - [2023-03-27 21:14:50,913] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:14:50,927] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:14:50,957] {logging_mixin.py:115} INFO - [2023-03-27 21:14:50,957] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:14:50,965] {logging_mixin.py:115} INFO - [2023-03-27 21:14:50,964] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:14:50,969] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.057 seconds
+[2023-03-27 21:15:33,950] {processor.py:153} INFO - Started process (PID=6638) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:15:33,950] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:15:33,950] {logging_mixin.py:115} INFO - [2023-03-27 21:15:33,950] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:15:33,964] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:15:33,993] {logging_mixin.py:115} INFO - [2023-03-27 21:15:33,993] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:15:34,001] {logging_mixin.py:115} INFO - [2023-03-27 21:15:34,001] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:15:34,006] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.056 seconds
+[2023-03-27 21:16:18,020] {processor.py:153} INFO - Started process (PID=6711) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:16:18,021] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:16:18,021] {logging_mixin.py:115} INFO - [2023-03-27 21:16:18,021] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:16:18,035] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:16:18,064] {logging_mixin.py:115} INFO - [2023-03-27 21:16:18,064] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:16:18,072] {logging_mixin.py:115} INFO - [2023-03-27 21:16:18,072] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:16:18,076] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.056 seconds
+[2023-03-27 21:17:02,414] {processor.py:153} INFO - Started process (PID=6785) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:17:02,414] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:17:02,414] {logging_mixin.py:115} INFO - [2023-03-27 21:17:02,414] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:17:02,428] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:17:02,457] {logging_mixin.py:115} INFO - [2023-03-27 21:17:02,457] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:17:02,464] {logging_mixin.py:115} INFO - [2023-03-27 21:17:02,464] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:17:02,470] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.056 seconds
+[2023-03-27 21:17:44,219] {processor.py:153} INFO - Started process (PID=6854) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:17:44,219] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:17:44,219] {logging_mixin.py:115} INFO - [2023-03-27 21:17:44,219] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:17:44,232] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:17:44,261] {logging_mixin.py:115} INFO - [2023-03-27 21:17:44,261] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:17:44,269] {logging_mixin.py:115} INFO - [2023-03-27 21:17:44,269] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:17:44,274] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.056 seconds
+[2023-03-27 21:18:26,834] {processor.py:153} INFO - Started process (PID=6926) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:18:26,834] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:18:26,835] {logging_mixin.py:115} INFO - [2023-03-27 21:18:26,835] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:18:26,848] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:18:26,878] {logging_mixin.py:115} INFO - [2023-03-27 21:18:26,878] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:18:26,886] {logging_mixin.py:115} INFO - [2023-03-27 21:18:26,886] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:18:26,890] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.057 seconds
+[2023-03-27 21:19:10,398] {processor.py:153} INFO - Started process (PID=7003) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:19:10,399] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:19:10,399] {logging_mixin.py:115} INFO - [2023-03-27 21:19:10,399] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:19:10,413] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:19:10,442] {logging_mixin.py:115} INFO - [2023-03-27 21:19:10,442] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:19:10,450] {logging_mixin.py:115} INFO - [2023-03-27 21:19:10,450] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:19:10,454] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.056 seconds
+[2023-03-27 21:19:53,982] {processor.py:153} INFO - Started process (PID=7076) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:19:53,982] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:19:53,982] {logging_mixin.py:115} INFO - [2023-03-27 21:19:53,982] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:19:53,996] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:19:54,025] {logging_mixin.py:115} INFO - [2023-03-27 21:19:54,025] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:19:54,033] {logging_mixin.py:115} INFO - [2023-03-27 21:19:54,033] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:19:54,038] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.056 seconds
+[2023-03-27 21:20:40,326] {processor.py:153} INFO - Started process (PID=7151) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:20:40,326] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:20:40,326] {logging_mixin.py:115} INFO - [2023-03-27 21:20:40,326] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:20:40,340] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:20:40,369] {logging_mixin.py:115} INFO - [2023-03-27 21:20:40,369] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:20:40,377] {logging_mixin.py:115} INFO - [2023-03-27 21:20:40,377] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:20:40,382] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.056 seconds
+[2023-03-27 21:21:24,871] {processor.py:153} INFO - Started process (PID=7223) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:21:24,871] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:21:24,872] {logging_mixin.py:115} INFO - [2023-03-27 21:21:24,872] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:21:24,885] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:21:24,914] {logging_mixin.py:115} INFO - [2023-03-27 21:21:24,914] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:21:24,922] {logging_mixin.py:115} INFO - [2023-03-27 21:21:24,922] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:21:24,927] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.056 seconds
+[2023-03-27 21:22:10,602] {processor.py:153} INFO - Started process (PID=7299) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:22:10,603] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:22:10,603] {logging_mixin.py:115} INFO - [2023-03-27 21:22:10,603] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:22:10,616] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:22:10,645] {logging_mixin.py:115} INFO - [2023-03-27 21:22:10,645] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:22:10,653] {logging_mixin.py:115} INFO - [2023-03-27 21:22:10,653] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:22:10,658] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.055 seconds
+[2023-03-27 21:22:55,318] {processor.py:153} INFO - Started process (PID=7375) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:22:55,318] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:22:55,318] {logging_mixin.py:115} INFO - [2023-03-27 21:22:55,318] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:22:55,332] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:22:55,361] {logging_mixin.py:115} INFO - [2023-03-27 21:22:55,361] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:22:55,369] {logging_mixin.py:115} INFO - [2023-03-27 21:22:55,369] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:22:55,374] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.056 seconds
+[2023-03-27 21:23:38,183] {processor.py:153} INFO - Started process (PID=7446) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:23:38,183] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:23:38,183] {logging_mixin.py:115} INFO - [2023-03-27 21:23:38,183] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:23:38,196] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:23:38,225] {logging_mixin.py:115} INFO - [2023-03-27 21:23:38,225] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:23:38,233] {logging_mixin.py:115} INFO - [2023-03-27 21:23:38,233] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:23:38,238] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.055 seconds
+[2023-03-27 21:24:22,358] {processor.py:153} INFO - Started process (PID=7528) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:24:22,358] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:24:22,358] {logging_mixin.py:115} INFO - [2023-03-27 21:24:22,358] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:24:22,372] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:24:22,402] {logging_mixin.py:115} INFO - [2023-03-27 21:24:22,402] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:24:22,409] {logging_mixin.py:115} INFO - [2023-03-27 21:24:22,409] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:24:22,414] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.057 seconds
+[2023-03-27 21:25:07,069] {processor.py:153} INFO - Started process (PID=7626) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:25:07,069] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:25:07,069] {logging_mixin.py:115} INFO - [2023-03-27 21:25:07,069] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:25:07,083] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:25:07,112] {logging_mixin.py:115} INFO - [2023-03-27 21:25:07,112] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:25:07,120] {logging_mixin.py:115} INFO - [2023-03-27 21:25:07,120] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:25:07,125] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.057 seconds
+[2023-03-27 21:25:50,000] {processor.py:153} INFO - Started process (PID=7709) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:25:50,000] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:25:50,000] {logging_mixin.py:115} INFO - [2023-03-27 21:25:50,000] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:25:50,013] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:25:50,043] {logging_mixin.py:115} INFO - [2023-03-27 21:25:50,043] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:25:50,051] {logging_mixin.py:115} INFO - [2023-03-27 21:25:50,051] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:25:50,056] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.056 seconds
+[2023-03-27 21:26:34,830] {processor.py:153} INFO - Started process (PID=7783) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:26:34,830] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:26:34,831] {logging_mixin.py:115} INFO - [2023-03-27 21:26:34,831] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:26:34,844] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:26:34,873] {logging_mixin.py:115} INFO - [2023-03-27 21:26:34,873] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:26:34,880] {logging_mixin.py:115} INFO - [2023-03-27 21:26:34,880] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:26:34,885] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.055 seconds
+[2023-03-27 21:27:20,131] {processor.py:153} INFO - Started process (PID=7859) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:27:20,131] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:27:20,131] {logging_mixin.py:115} INFO - [2023-03-27 21:27:20,131] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:27:20,144] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:27:20,174] {logging_mixin.py:115} INFO - [2023-03-27 21:27:20,174] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:27:20,182] {logging_mixin.py:115} INFO - [2023-03-27 21:27:20,182] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:27:20,187] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.056 seconds
+[2023-03-27 21:28:03,005] {processor.py:153} INFO - Started process (PID=7929) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:28:03,006] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:28:03,006] {logging_mixin.py:115} INFO - [2023-03-27 21:28:03,006] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:28:03,019] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:28:03,050] {logging_mixin.py:115} INFO - [2023-03-27 21:28:03,050] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:28:03,058] {logging_mixin.py:115} INFO - [2023-03-27 21:28:03,058] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:28:03,063] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.058 seconds
+[2023-03-27 21:28:46,380] {processor.py:153} INFO - Started process (PID=8011) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:28:46,380] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:28:46,380] {logging_mixin.py:115} INFO - [2023-03-27 21:28:46,380] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:28:46,393] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:28:46,423] {logging_mixin.py:115} INFO - [2023-03-27 21:28:46,423] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:28:46,431] {logging_mixin.py:115} INFO - [2023-03-27 21:28:46,431] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:28:46,435] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.056 seconds
+[2023-03-27 21:29:27,678] {processor.py:153} INFO - Started process (PID=8088) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:29:27,678] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:29:27,678] {logging_mixin.py:115} INFO - [2023-03-27 21:29:27,678] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:29:27,691] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:29:27,721] {logging_mixin.py:115} INFO - [2023-03-27 21:29:27,721] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:29:27,728] {logging_mixin.py:115} INFO - [2023-03-27 21:29:27,728] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:29:27,733] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.056 seconds
+[2023-03-27 21:30:11,500] {processor.py:153} INFO - Started process (PID=8193) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:30:11,501] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:30:11,501] {logging_mixin.py:115} INFO - [2023-03-27 21:30:11,501] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:30:11,515] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:30:11,544] {logging_mixin.py:115} INFO - [2023-03-27 21:30:11,544] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:30:11,552] {logging_mixin.py:115} INFO - [2023-03-27 21:30:11,552] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:30:11,556] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.057 seconds
+[2023-03-27 21:30:54,472] {processor.py:153} INFO - Started process (PID=8265) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:30:54,472] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:30:54,472] {logging_mixin.py:115} INFO - [2023-03-27 21:30:54,472] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:30:54,485] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:30:54,515] {logging_mixin.py:115} INFO - [2023-03-27 21:30:54,514] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:30:54,522] {logging_mixin.py:115} INFO - [2023-03-27 21:30:54,522] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:30:54,527] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.056 seconds
+[2023-03-27 21:31:37,102] {processor.py:153} INFO - Started process (PID=8335) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:31:37,103] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:31:37,103] {logging_mixin.py:115} INFO - [2023-03-27 21:31:37,103] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:31:37,116] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:31:37,145] {logging_mixin.py:115} INFO - [2023-03-27 21:31:37,145] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:31:37,153] {logging_mixin.py:115} INFO - [2023-03-27 21:31:37,153] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:31:37,158] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.056 seconds
+[2023-03-27 21:32:20,657] {processor.py:153} INFO - Started process (PID=8408) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:32:20,657] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:32:20,657] {logging_mixin.py:115} INFO - [2023-03-27 21:32:20,657] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:32:20,670] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:32:20,700] {logging_mixin.py:115} INFO - [2023-03-27 21:32:20,699] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:32:20,707] {logging_mixin.py:115} INFO - [2023-03-27 21:32:20,707] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:32:20,712] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.055 seconds
+[2023-03-27 21:33:05,621] {processor.py:153} INFO - Started process (PID=8482) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:33:05,621] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:33:05,621] {logging_mixin.py:115} INFO - [2023-03-27 21:33:05,621] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:33:05,634] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:33:05,663] {logging_mixin.py:115} INFO - [2023-03-27 21:33:05,663] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:33:05,671] {logging_mixin.py:115} INFO - [2023-03-27 21:33:05,671] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:33:05,676] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.055 seconds
+[2023-03-27 21:33:50,995] {processor.py:153} INFO - Started process (PID=8561) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:33:50,995] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:33:50,995] {logging_mixin.py:115} INFO - [2023-03-27 21:33:50,995] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:33:51,008] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:33:51,038] {logging_mixin.py:115} INFO - [2023-03-27 21:33:51,038] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:33:51,045] {logging_mixin.py:115} INFO - [2023-03-27 21:33:51,045] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:33:51,050] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.056 seconds
+[2023-03-27 21:34:35,324] {processor.py:153} INFO - Started process (PID=8647) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:34:35,324] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:34:35,324] {logging_mixin.py:115} INFO - [2023-03-27 21:34:35,324] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:34:35,338] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:34:35,368] {logging_mixin.py:115} INFO - [2023-03-27 21:34:35,368] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:34:35,376] {logging_mixin.py:115} INFO - [2023-03-27 21:34:35,376] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:34:35,380] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.057 seconds
+[2023-03-27 21:59:32,531] {processor.py:153} INFO - Started process (PID=8713) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:59:32,531] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 21:59:32,531] {logging_mixin.py:115} INFO - [2023-03-27 21:59:32,531] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:59:32,545] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 21:59:32,573] {logging_mixin.py:115} INFO - [2023-03-27 21:59:32,573] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 21:59:32,581] {logging_mixin.py:115} INFO - [2023-03-27 21:59:32,581] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 21:59:32,586] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.055 seconds
+[2023-03-27 22:00:16,595] {processor.py:153} INFO - Started process (PID=8795) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 22:00:16,595] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 22:00:16,595] {logging_mixin.py:115} INFO - [2023-03-27 22:00:16,595] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 22:00:16,609] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 22:00:16,639] {logging_mixin.py:115} INFO - [2023-03-27 22:00:16,639] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 22:00:16,646] {logging_mixin.py:115} INFO - [2023-03-27 22:00:16,646] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 22:00:16,651] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.056 seconds
+[2023-03-27 22:08:00,674] {processor.py:153} INFO - Started process (PID=8852) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 22:08:00,674] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 22:08:00,674] {logging_mixin.py:115} INFO - [2023-03-27 22:08:00,674] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 22:08:00,692] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 22:08:00,723] {logging_mixin.py:115} INFO - [2023-03-27 22:08:00,723] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 22:08:00,731] {logging_mixin.py:115} INFO - [2023-03-27 22:08:00,731] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 22:08:00,736] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.063 seconds
+[2023-03-27 23:11:59,472] {processor.py:153} INFO - Started process (PID=8962) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 23:11:59,473] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py for tasks to queue
+[2023-03-27 23:11:59,476] {logging_mixin.py:115} INFO - [2023-03-27 23:11:59,476] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 23:11:59,489] {processor.py:651} INFO - DAG(s) dict_keys(['atv']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py
+[2023-03-27 23:11:59,518] {logging_mixin.py:115} INFO - [2023-03-27 23:11:59,518] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-27 23:11:59,526] {logging_mixin.py:115} INFO - [2023-03-27 23:11:59,526] {dag.py:2927} INFO - Setting next_dagrun for atv to 2023-03-28T00:00:00+00:00, run_after=2023-03-29T00:00:00+00:00
+[2023-03-27 23:11:59,530] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/atv.py took 0.059 seconds

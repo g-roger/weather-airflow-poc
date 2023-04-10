@@ -1,0 +1,27 @@
+[2023-03-27 21:09:38,610] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: first_dag.criar_pasta scheduled__2023-03-27T00:00:00+00:00 [queued]>
+[2023-03-27 21:09:38,613] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: first_dag.criar_pasta scheduled__2023-03-27T00:00:00+00:00 [queued]>
+[2023-03-27 21:09:38,613] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-27 21:09:38,613] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2023-03-27 21:09:38,613] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-27 21:09:38,619] {taskinstance.py:1377} INFO - Executing <Task(BashOperator): criar_pasta> on 2023-03-27 00:00:00+00:00
+[2023-03-27 21:09:38,622] {standard_task_runner.py:52} INFO - Started process 6034 to run task
+[2023-03-27 21:09:38,626] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'first_dag', 'criar_pasta', 'scheduled__2023-03-27T00:00:00+00:00', '--job-id', '24', '--raw', '--subdir', 'DAGS_FOLDER/first_dag.py', '--cfg-path', '/var/folders/1t/ncp0s87s3bd37gfvks3bsb3w0000gn/T/tmpwg81q9x5', '--error-file', '/var/folders/1t/ncp0s87s3bd37gfvks3bsb3w0000gn/T/tmpakrdgu69']
+[2023-03-27 21:09:38,627] {standard_task_runner.py:80} INFO - Job 24: Subtask criar_pasta
+[2023-03-27 21:09:38,649] {task_command.py:370} INFO - Running <TaskInstance: first_dag.criar_pasta scheduled__2023-03-27T00:00:00+00:00 [running]> on host 1.0.0.127.in-addr.arpa
+[2023-03-27 21:09:38,673] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=first_dag
+AIRFLOW_CTX_TASK_ID=criar_pasta
+AIRFLOW_CTX_EXECUTION_DATE=2023-03-27T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-03-27T00:00:00+00:00
+[2023-03-27 21:09:38,673] {subprocess.py:62} INFO - Tmp dir root location: 
+ /var/folders/1t/ncp0s87s3bd37gfvks3bsb3w0000gn/T
+[2023-03-27 21:09:38,674] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'mkdir -p "~/Documents/projects/weather-data/pasta"']
+[2023-03-27 21:09:38,680] {subprocess.py:85} INFO - Output:
+[2023-03-27 21:09:38,689] {subprocess.py:96} INFO - Command exited with return code 0
+[2023-03-27 21:09:38,702] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=first_dag, task_id=criar_pasta, execution_date=20230327T000000, start_date=20230328T000938, end_date=20230328T000938
+[2023-03-27 21:09:38,733] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-03-27 21:09:38,743] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

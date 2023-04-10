@@ -1,0 +1,984 @@
+[2023-03-29 22:46:13,086] {processor.py:153} INFO - Started process (PID=8092) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:46:13,086] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 22:46:13,086] {logging_mixin.py:115} INFO - [2023-03-29 22:46:13,086] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:46:13,088] {logging_mixin.py:115} INFO - [2023-03-29 22:46:13,087] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 8
+    )
+     ^
+SyntaxError: invalid syntax
+[2023-03-29 22:46:13,088] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:46:13,109] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.023 seconds
+[2023-03-29 22:47:01,419] {processor.py:153} INFO - Started process (PID=8171) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:47:01,420] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 22:47:01,420] {logging_mixin.py:115} INFO - [2023-03-29 22:47:01,420] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:47:01,421] {logging_mixin.py:115} INFO - [2023-03-29 22:47:01,420] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 8
+    )
+     ^
+SyntaxError: invalid syntax
+[2023-03-29 22:47:01,421] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:47:01,441] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.022 seconds
+[2023-03-29 22:47:46,773] {processor.py:153} INFO - Started process (PID=8247) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:47:46,773] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 22:47:46,774] {logging_mixin.py:115} INFO - [2023-03-29 22:47:46,774] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:47:46,775] {logging_mixin.py:115} INFO - [2023-03-29 22:47:46,774] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 8
+    )
+     ^
+SyntaxError: invalid syntax
+[2023-03-29 22:47:46,775] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:47:46,795] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.023 seconds
+[2023-03-29 22:48:31,965] {processor.py:153} INFO - Started process (PID=8328) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:48:31,966] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 22:48:31,966] {logging_mixin.py:115} INFO - [2023-03-29 22:48:31,966] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:48:31,967] {logging_mixin.py:115} INFO - [2023-03-29 22:48:31,967] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 8
+    )
+     ^
+SyntaxError: invalid syntax
+[2023-03-29 22:48:31,967] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:48:31,988] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.023 seconds
+[2023-03-29 22:49:12,514] {processor.py:153} INFO - Started process (PID=8400) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:49:12,514] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 22:49:12,514] {logging_mixin.py:115} INFO - [2023-03-29 22:49:12,514] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:49:12,515] {logging_mixin.py:115} INFO - [2023-03-29 22:49:12,514] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 7
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 22:49:12,515] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:49:12,538] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.024 seconds
+[2023-03-29 22:49:58,697] {processor.py:153} INFO - Started process (PID=8476) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:49:58,698] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 22:49:58,698] {logging_mixin.py:115} INFO - [2023-03-29 22:49:58,698] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:49:58,700] {logging_mixin.py:115} INFO - [2023-03-29 22:49:58,699] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 7
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 22:49:58,700] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:49:58,720] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.023 seconds
+[2023-03-29 22:50:45,355] {processor.py:153} INFO - Started process (PID=8555) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:50:45,356] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 22:50:45,356] {logging_mixin.py:115} INFO - [2023-03-29 22:50:45,356] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:50:45,357] {logging_mixin.py:115} INFO - [2023-03-29 22:50:45,356] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 7
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 22:50:45,357] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:50:45,377] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.023 seconds
+[2023-03-29 22:51:32,904] {processor.py:153} INFO - Started process (PID=8634) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:51:32,904] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 22:51:32,904] {logging_mixin.py:115} INFO - [2023-03-29 22:51:32,904] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:51:32,905] {logging_mixin.py:115} INFO - [2023-03-29 22:51:32,904] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 7
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 22:51:32,905] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:51:32,926] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.023 seconds
+[2023-03-29 22:52:19,014] {processor.py:153} INFO - Started process (PID=8712) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:52:19,015] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 22:52:19,015] {logging_mixin.py:115} INFO - [2023-03-29 22:52:19,015] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:52:19,017] {logging_mixin.py:115} INFO - [2023-03-29 22:52:19,016] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 7
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 22:52:19,017] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:52:19,038] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.024 seconds
+[2023-03-29 22:53:06,941] {processor.py:153} INFO - Started process (PID=8789) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:53:06,942] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 22:53:06,942] {logging_mixin.py:115} INFO - [2023-03-29 22:53:06,942] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:53:06,942] {logging_mixin.py:115} INFO - [2023-03-29 22:53:06,942] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 7
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 22:53:06,942] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:53:06,963] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.022 seconds
+[2023-03-29 22:53:52,541] {processor.py:153} INFO - Started process (PID=8867) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:53:52,542] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 22:53:52,542] {logging_mixin.py:115} INFO - [2023-03-29 22:53:52,542] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:53:52,543] {logging_mixin.py:115} INFO - [2023-03-29 22:53:52,542] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 7
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 22:53:52,543] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:53:52,564] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.023 seconds
+[2023-03-29 22:54:41,087] {processor.py:153} INFO - Started process (PID=8946) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:54:41,087] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 22:54:41,087] {logging_mixin.py:115} INFO - [2023-03-29 22:54:41,087] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:54:41,087] {logging_mixin.py:115} INFO - [2023-03-29 22:54:41,087] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 7
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 22:54:41,088] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:54:41,108] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.022 seconds
+[2023-03-29 22:55:29,090] {processor.py:153} INFO - Started process (PID=9025) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:55:29,090] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 22:55:29,091] {logging_mixin.py:115} INFO - [2023-03-29 22:55:29,091] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:55:29,091] {logging_mixin.py:115} INFO - [2023-03-29 22:55:29,091] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 7
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 22:55:29,091] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:55:29,112] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.022 seconds
+[2023-03-29 22:56:15,528] {processor.py:153} INFO - Started process (PID=9103) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:56:15,528] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 22:56:15,529] {logging_mixin.py:115} INFO - [2023-03-29 22:56:15,528] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:56:15,529] {logging_mixin.py:115} INFO - [2023-03-29 22:56:15,529] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 7
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 22:56:15,529] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:56:15,550] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.022 seconds
+[2023-03-29 22:57:02,254] {processor.py:153} INFO - Started process (PID=9181) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:57:02,254] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 22:57:02,254] {logging_mixin.py:115} INFO - [2023-03-29 22:57:02,254] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:57:02,255] {logging_mixin.py:115} INFO - [2023-03-29 22:57:02,255] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 10
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 22:57:02,255] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:57:02,276] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.022 seconds
+[2023-03-29 22:57:46,983] {processor.py:153} INFO - Started process (PID=9256) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:57:46,984] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 22:57:46,984] {logging_mixin.py:115} INFO - [2023-03-29 22:57:46,984] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:57:46,985] {logging_mixin.py:115} INFO - [2023-03-29 22:57:46,985] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 10
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 22:57:46,985] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:57:47,005] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.023 seconds
+[2023-03-29 22:58:33,314] {processor.py:153} INFO - Started process (PID=9337) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:58:33,316] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 22:58:33,316] {logging_mixin.py:115} INFO - [2023-03-29 22:58:33,316] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:58:33,318] {logging_mixin.py:115} INFO - [2023-03-29 22:58:33,317] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 10
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 22:58:33,318] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:58:33,338] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.024 seconds
+[2023-03-29 22:59:21,521] {processor.py:153} INFO - Started process (PID=9418) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:59:21,522] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 22:59:21,522] {logging_mixin.py:115} INFO - [2023-03-29 22:59:21,522] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:59:21,524] {logging_mixin.py:115} INFO - [2023-03-29 22:59:21,523] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 10
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 22:59:21,524] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 22:59:21,545] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.023 seconds
+[2023-03-29 23:00:09,403] {processor.py:153} INFO - Started process (PID=9506) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:00:09,404] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:00:09,404] {logging_mixin.py:115} INFO - [2023-03-29 23:00:09,404] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:00:09,405] {logging_mixin.py:115} INFO - [2023-03-29 23:00:09,404] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 10
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 23:00:09,405] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:00:09,426] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.022 seconds
+[2023-03-29 23:00:57,335] {processor.py:153} INFO - Started process (PID=9583) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:00:57,335] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:00:57,335] {logging_mixin.py:115} INFO - [2023-03-29 23:00:57,335] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:00:57,336] {logging_mixin.py:115} INFO - [2023-03-29 23:00:57,336] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 10
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 23:00:57,336] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:00:57,357] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.023 seconds
+[2023-03-29 23:01:44,909] {processor.py:153} INFO - Started process (PID=9663) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:01:44,910] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:01:44,910] {logging_mixin.py:115} INFO - [2023-03-29 23:01:44,910] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:01:44,911] {logging_mixin.py:115} INFO - [2023-03-29 23:01:44,910] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 10
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 23:01:44,911] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:01:44,932] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.023 seconds
+[2023-03-29 23:02:35,422] {processor.py:153} INFO - Started process (PID=9745) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:02:35,424] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:02:35,424] {logging_mixin.py:115} INFO - [2023-03-29 23:02:35,424] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:02:35,425] {logging_mixin.py:115} INFO - [2023-03-29 23:02:35,424] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 10
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 23:02:35,425] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:02:35,445] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.023 seconds
+[2023-03-29 23:03:22,944] {processor.py:153} INFO - Started process (PID=9827) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:03:22,944] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:03:22,945] {logging_mixin.py:115} INFO - [2023-03-29 23:03:22,945] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:03:22,946] {logging_mixin.py:115} INFO - [2023-03-29 23:03:22,945] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 10
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 23:03:22,946] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:03:22,966] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.023 seconds
+[2023-03-29 23:04:09,277] {processor.py:153} INFO - Started process (PID=9904) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:04:09,279] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:04:09,279] {logging_mixin.py:115} INFO - [2023-03-29 23:04:09,279] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:04:09,281] {logging_mixin.py:115} INFO - [2023-03-29 23:04:09,280] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 10
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 23:04:09,281] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:04:09,302] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.026 seconds
+[2023-03-29 23:04:58,066] {processor.py:153} INFO - Started process (PID=9984) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:04:58,068] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:04:58,068] {logging_mixin.py:115} INFO - [2023-03-29 23:04:58,068] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:04:58,069] {logging_mixin.py:115} INFO - [2023-03-29 23:04:58,068] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 10
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 23:04:58,069] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:04:58,089] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.024 seconds
+[2023-03-29 23:05:44,461] {processor.py:153} INFO - Started process (PID=10061) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:05:44,462] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:05:44,462] {logging_mixin.py:115} INFO - [2023-03-29 23:05:44,462] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:05:44,464] {logging_mixin.py:115} INFO - [2023-03-29 23:05:44,463] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 10
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 23:05:44,464] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:05:44,484] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.023 seconds
+[2023-03-29 23:06:32,500] {processor.py:153} INFO - Started process (PID=10140) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:06:32,501] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:06:32,501] {logging_mixin.py:115} INFO - [2023-03-29 23:06:32,501] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:06:32,502] {logging_mixin.py:115} INFO - [2023-03-29 23:06:32,501] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 10
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 23:06:32,502] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:06:32,522] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.023 seconds
+[2023-03-29 23:07:17,604] {processor.py:153} INFO - Started process (PID=10215) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:07:17,605] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:07:17,605] {logging_mixin.py:115} INFO - [2023-03-29 23:07:17,605] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:07:17,606] {logging_mixin.py:115} INFO - [2023-03-29 23:07:17,605] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 10
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 23:07:17,606] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:07:17,626] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.023 seconds
+[2023-03-29 23:08:04,962] {processor.py:153} INFO - Started process (PID=10293) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:08:04,962] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:08:04,963] {logging_mixin.py:115} INFO - [2023-03-29 23:08:04,962] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:08:04,963] {logging_mixin.py:115} INFO - [2023-03-29 23:08:04,963] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 10
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 23:08:04,963] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:08:04,984] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.022 seconds
+[2023-03-29 23:08:52,375] {processor.py:153} INFO - Started process (PID=10381) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:08:52,375] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:08:52,376] {logging_mixin.py:115} INFO - [2023-03-29 23:08:52,375] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:08:52,377] {logging_mixin.py:115} INFO - [2023-03-29 23:08:52,376] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 14
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 23:08:52,377] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:08:52,397] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.023 seconds
+[2023-03-29 23:09:13,382] {processor.py:153} INFO - Started process (PID=10420) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:09:13,382] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:09:13,383] {logging_mixin.py:115} INFO - [2023-03-29 23:09:13,383] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:09:13,384] {logging_mixin.py:115} INFO - [2023-03-29 23:09:13,384] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 14
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 23:09:13,385] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:09:13,408] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.027 seconds
+[2023-03-29 23:10:06,702] {processor.py:153} INFO - Started process (PID=10513) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:10:06,703] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:10:06,703] {logging_mixin.py:115} INFO - [2023-03-29 23:10:06,703] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:10:06,704] {logging_mixin.py:115} INFO - [2023-03-29 23:10:06,704] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 14
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 23:10:06,705] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:10:06,725] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.023 seconds
+[2023-03-29 23:10:54,732] {processor.py:153} INFO - Started process (PID=10593) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:10:54,732] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:10:54,732] {logging_mixin.py:115} INFO - [2023-03-29 23:10:54,732] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:10:54,734] {logging_mixin.py:115} INFO - [2023-03-29 23:10:54,733] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 14
+    	start_date=pendulum.datetime(2023, 03, 20, tz='UTC'),
+    	                                    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-03-29 23:10:54,734] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:10:54,754] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.022 seconds
+[2023-03-29 23:11:28,992] {processor.py:153} INFO - Started process (PID=10659) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:11:28,993] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:11:28,993] {logging_mixin.py:115} INFO - [2023-03-29 23:11:28,993] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:11:28,994] {logging_mixin.py:115} INFO - [2023-03-29 23:11:28,994] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 23
+    	def extraction():
+TabError: inconsistent use of tabs and spaces in indentation
+[2023-03-29 23:11:28,995] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:11:29,026] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.034 seconds
+[2023-03-29 23:12:24,679] {processor.py:153} INFO - Started process (PID=10777) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:12:24,680] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:12:24,680] {logging_mixin.py:115} INFO - [2023-03-29 23:12:24,680] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:12:24,682] {logging_mixin.py:115} INFO - [2023-03-29 23:12:24,681] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 23
+    	def extraction():
+TabError: inconsistent use of tabs and spaces in indentation
+[2023-03-29 23:12:24,682] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:12:24,702] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.023 seconds
+[2023-03-29 23:13:12,594] {processor.py:153} INFO - Started process (PID=10858) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:13:12,595] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:13:12,595] {logging_mixin.py:115} INFO - [2023-03-29 23:13:12,595] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:13:12,596] {logging_mixin.py:115} INFO - [2023-03-29 23:13:12,596] {dagbag.py:320} ERROR - Failed to import: /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/Users/gabrielroger/Documents/projects/weather-data/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py", line 23
+    	def extraction():
+TabError: inconsistent use of tabs and spaces in indentation
+[2023-03-29 23:13:12,596] {processor.py:653} WARNING - No viable dags retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:13:12,617] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.023 seconds
+[2023-03-29 23:13:33,588] {processor.py:153} INFO - Started process (PID=10899) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:13:33,588] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:13:33,588] {logging_mixin.py:115} INFO - [2023-03-29 23:13:33,588] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:13:35,986] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:13:36,394] {logging_mixin.py:115} INFO - [2023-03-29 23:13:36,394] {manager.py:508} INFO - Created Permission View: can read on DAG:weather_dag
+[2023-03-29 23:13:36,397] {logging_mixin.py:115} INFO - [2023-03-29 23:13:36,397] {manager.py:508} INFO - Created Permission View: can edit on DAG:weather_dag
+[2023-03-29 23:13:36,400] {logging_mixin.py:115} INFO - [2023-03-29 23:13:36,400] {manager.py:508} INFO - Created Permission View: can delete on DAG:weather_dag
+[2023-03-29 23:13:36,400] {logging_mixin.py:115} INFO - [2023-03-29 23:13:36,400] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:13:36,403] {logging_mixin.py:115} INFO - [2023-03-29 23:13:36,403] {dag.py:2398} INFO - Creating ORM DAG for weather_dag
+[2023-03-29 23:13:36,408] {logging_mixin.py:115} INFO - [2023-03-29 23:13:36,408] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-20T00:00:00+00:00, run_after=2023-03-27T00:00:00+00:00
+[2023-03-29 23:13:36,413] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 2.826 seconds
+[2023-03-29 23:14:31,960] {processor.py:153} INFO - Started process (PID=11042) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:14:31,961] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:14:31,961] {logging_mixin.py:115} INFO - [2023-03-29 23:14:31,961] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:14:32,297] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:14:32,328] {logging_mixin.py:115} INFO - [2023-03-29 23:14:32,328] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:14:32,336] {logging_mixin.py:115} INFO - [2023-03-29 23:14:32,336] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:14:32,340] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.381 seconds
+[2023-03-29 23:15:20,646] {processor.py:153} INFO - Started process (PID=11121) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:15:20,646] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:15:20,647] {logging_mixin.py:115} INFO - [2023-03-29 23:15:20,647] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:15:20,898] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:15:20,930] {logging_mixin.py:115} INFO - [2023-03-29 23:15:20,930] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:15:20,938] {logging_mixin.py:115} INFO - [2023-03-29 23:15:20,938] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:15:20,943] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.297 seconds
+[2023-03-29 23:16:09,719] {processor.py:153} INFO - Started process (PID=11209) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:16:09,719] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:16:09,719] {logging_mixin.py:115} INFO - [2023-03-29 23:16:09,719] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:16:10,087] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:16:10,118] {logging_mixin.py:115} INFO - [2023-03-29 23:16:10,118] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:16:10,127] {logging_mixin.py:115} INFO - [2023-03-29 23:16:10,126] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:16:10,131] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.413 seconds
+[2023-03-29 23:16:59,331] {processor.py:153} INFO - Started process (PID=11290) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:16:59,331] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:16:59,332] {logging_mixin.py:115} INFO - [2023-03-29 23:16:59,332] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:16:59,688] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:16:59,719] {logging_mixin.py:115} INFO - [2023-03-29 23:16:59,719] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:16:59,729] {logging_mixin.py:115} INFO - [2023-03-29 23:16:59,729] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:16:59,734] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.404 seconds
+[2023-03-29 23:17:46,882] {processor.py:153} INFO - Started process (PID=11367) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:17:46,883] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:17:46,883] {logging_mixin.py:115} INFO - [2023-03-29 23:17:46,883] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:17:47,224] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:17:47,254] {logging_mixin.py:115} INFO - [2023-03-29 23:17:47,254] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:17:47,262] {logging_mixin.py:115} INFO - [2023-03-29 23:17:47,262] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:17:47,266] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.384 seconds
+[2023-03-29 23:18:34,663] {processor.py:153} INFO - Started process (PID=11451) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:18:34,663] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:18:34,663] {logging_mixin.py:115} INFO - [2023-03-29 23:18:34,663] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:18:34,920] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:18:34,952] {logging_mixin.py:115} INFO - [2023-03-29 23:18:34,952] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:18:34,961] {logging_mixin.py:115} INFO - [2023-03-29 23:18:34,961] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:18:34,966] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.304 seconds
+[2023-03-29 23:19:07,471] {processor.py:153} INFO - Started process (PID=11512) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:19:07,472] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:19:07,472] {logging_mixin.py:115} INFO - [2023-03-29 23:19:07,472] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:19:07,973] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:19:08,010] {logging_mixin.py:115} INFO - [2023-03-29 23:19:08,010] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:19:08,019] {logging_mixin.py:115} INFO - [2023-03-29 23:19:08,019] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:19:08,028] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.558 seconds
+[2023-03-29 23:20:03,397] {processor.py:153} INFO - Started process (PID=11613) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:20:03,398] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:20:03,399] {logging_mixin.py:115} INFO - [2023-03-29 23:20:03,399] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:20:03,750] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:20:03,781] {logging_mixin.py:115} INFO - [2023-03-29 23:20:03,781] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:20:03,789] {logging_mixin.py:115} INFO - [2023-03-29 23:20:03,789] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:20:03,794] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.397 seconds
+[2023-03-29 23:20:54,133] {processor.py:153} INFO - Started process (PID=11695) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:20:54,134] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:20:54,134] {logging_mixin.py:115} INFO - [2023-03-29 23:20:54,134] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:20:54,498] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:20:54,529] {logging_mixin.py:115} INFO - [2023-03-29 23:20:54,529] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:20:54,538] {logging_mixin.py:115} INFO - [2023-03-29 23:20:54,537] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:20:54,542] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.410 seconds
+[2023-03-29 23:21:42,486] {processor.py:153} INFO - Started process (PID=11774) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:21:42,486] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:21:42,486] {logging_mixin.py:115} INFO - [2023-03-29 23:21:42,486] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:21:42,841] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:21:42,872] {logging_mixin.py:115} INFO - [2023-03-29 23:21:42,872] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:21:42,880] {logging_mixin.py:115} INFO - [2023-03-29 23:21:42,880] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:21:42,885] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.399 seconds
+[2023-03-29 23:22:14,782] {processor.py:153} INFO - Started process (PID=11841) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:22:14,782] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:22:14,783] {logging_mixin.py:115} INFO - [2023-03-29 23:22:14,783] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:22:15,371] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:22:15,410] {logging_mixin.py:115} INFO - [2023-03-29 23:22:15,410] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:22:15,420] {logging_mixin.py:115} INFO - [2023-03-29 23:22:15,420] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:22:15,486] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.704 seconds
+[2023-03-29 23:23:19,230] {processor.py:153} INFO - Started process (PID=11959) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:23:19,231] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:23:19,231] {logging_mixin.py:115} INFO - [2023-03-29 23:23:19,231] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:23:19,756] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:23:19,790] {logging_mixin.py:115} INFO - [2023-03-29 23:23:19,790] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:23:19,800] {logging_mixin.py:115} INFO - [2023-03-29 23:23:19,799] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:23:19,807] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.578 seconds
+[2023-03-29 23:24:16,822] {processor.py:153} INFO - Started process (PID=12062) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:24:16,823] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:24:16,824] {logging_mixin.py:115} INFO - [2023-03-29 23:24:16,823] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:24:17,062] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:24:17,094] {logging_mixin.py:115} INFO - [2023-03-29 23:24:17,094] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:24:17,102] {logging_mixin.py:115} INFO - [2023-03-29 23:24:17,102] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:24:17,107] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.285 seconds
+[2023-03-29 23:25:06,569] {processor.py:153} INFO - Started process (PID=12143) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:25:06,570] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:25:06,570] {logging_mixin.py:115} INFO - [2023-03-29 23:25:06,570] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:25:06,915] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:25:06,945] {logging_mixin.py:115} INFO - [2023-03-29 23:25:06,945] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:25:06,952] {logging_mixin.py:115} INFO - [2023-03-29 23:25:06,952] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:25:06,957] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.388 seconds
+[2023-03-29 23:25:54,770] {processor.py:153} INFO - Started process (PID=12222) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:25:54,770] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:25:54,771] {logging_mixin.py:115} INFO - [2023-03-29 23:25:54,771] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:25:55,014] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:25:55,046] {logging_mixin.py:115} INFO - [2023-03-29 23:25:55,046] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:25:55,055] {logging_mixin.py:115} INFO - [2023-03-29 23:25:55,055] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:25:55,060] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.290 seconds
+[2023-03-29 23:26:43,725] {processor.py:153} INFO - Started process (PID=12309) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:26:43,725] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:26:43,725] {logging_mixin.py:115} INFO - [2023-03-29 23:26:43,725] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:26:44,098] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:26:44,128] {logging_mixin.py:115} INFO - [2023-03-29 23:26:44,128] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:26:44,136] {logging_mixin.py:115} INFO - [2023-03-29 23:26:44,136] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:26:44,141] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.417 seconds
+[2023-03-29 23:27:12,721] {processor.py:153} INFO - Started process (PID=12372) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:27:12,721] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:27:12,721] {logging_mixin.py:115} INFO - [2023-03-29 23:27:12,721] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:27:13,235] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:27:13,270] {logging_mixin.py:115} INFO - [2023-03-29 23:27:13,270] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:27:13,282] {logging_mixin.py:115} INFO - [2023-03-29 23:27:13,282] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:27:13,290] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.570 seconds
+[2023-03-29 23:28:06,609] {processor.py:153} INFO - Started process (PID=12469) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:28:06,609] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:28:06,609] {logging_mixin.py:115} INFO - [2023-03-29 23:28:06,609] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:28:06,974] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:28:07,004] {logging_mixin.py:115} INFO - [2023-03-29 23:28:07,004] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:28:07,013] {logging_mixin.py:115} INFO - [2023-03-29 23:28:07,013] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:28:07,018] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.409 seconds
+[2023-03-29 23:28:52,543] {processor.py:153} INFO - Started process (PID=12551) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:28:52,543] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:28:52,543] {logging_mixin.py:115} INFO - [2023-03-29 23:28:52,543] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:28:52,817] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:28:52,849] {logging_mixin.py:115} INFO - [2023-03-29 23:28:52,849] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:28:52,857] {logging_mixin.py:115} INFO - [2023-03-29 23:28:52,857] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:28:52,862] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.320 seconds
+[2023-03-29 23:29:38,483] {processor.py:153} INFO - Started process (PID=12627) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:29:38,484] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:29:38,484] {logging_mixin.py:115} INFO - [2023-03-29 23:29:38,484] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:29:38,846] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:29:38,876] {logging_mixin.py:115} INFO - [2023-03-29 23:29:38,876] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:29:38,883] {logging_mixin.py:115} INFO - [2023-03-29 23:29:38,883] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:29:38,888] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.405 seconds
+[2023-03-29 23:30:29,041] {processor.py:153} INFO - Started process (PID=12710) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:30:29,041] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:30:29,042] {logging_mixin.py:115} INFO - [2023-03-29 23:30:29,042] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:30:29,392] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:30:29,425] {logging_mixin.py:115} INFO - [2023-03-29 23:30:29,425] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:30:29,433] {logging_mixin.py:115} INFO - [2023-03-29 23:30:29,433] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:30:29,438] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.397 seconds
+[2023-03-29 23:31:18,367] {processor.py:153} INFO - Started process (PID=12794) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:31:18,369] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:31:18,369] {logging_mixin.py:115} INFO - [2023-03-29 23:31:18,369] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:31:18,727] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:31:18,757] {logging_mixin.py:115} INFO - [2023-03-29 23:31:18,757] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:31:18,765] {logging_mixin.py:115} INFO - [2023-03-29 23:31:18,765] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:31:18,770] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.403 seconds
+[2023-03-29 23:32:07,290] {processor.py:153} INFO - Started process (PID=12874) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:32:07,290] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:32:07,290] {logging_mixin.py:115} INFO - [2023-03-29 23:32:07,290] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:32:07,533] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:32:07,565] {logging_mixin.py:115} INFO - [2023-03-29 23:32:07,564] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:32:07,573] {logging_mixin.py:115} INFO - [2023-03-29 23:32:07,573] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:32:07,578] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.288 seconds
+[2023-03-29 23:32:52,782] {processor.py:153} INFO - Started process (PID=12958) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:32:52,783] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:32:52,783] {logging_mixin.py:115} INFO - [2023-03-29 23:32:52,783] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:32:53,148] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:32:53,178] {logging_mixin.py:115} INFO - [2023-03-29 23:32:53,178] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:32:53,186] {logging_mixin.py:115} INFO - [2023-03-29 23:32:53,186] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:32:53,191] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.409 seconds
+[2023-03-29 23:33:43,187] {processor.py:153} INFO - Started process (PID=13067) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:33:43,188] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:33:43,188] {logging_mixin.py:115} INFO - [2023-03-29 23:33:43,188] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:33:43,562] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:33:43,592] {logging_mixin.py:115} INFO - [2023-03-29 23:33:43,592] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:33:43,600] {logging_mixin.py:115} INFO - [2023-03-29 23:33:43,600] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:33:43,606] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.419 seconds
+[2023-03-29 23:34:30,136] {processor.py:153} INFO - Started process (PID=13152) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:34:30,137] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:34:30,137] {logging_mixin.py:115} INFO - [2023-03-29 23:34:30,137] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:34:30,491] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:34:30,521] {logging_mixin.py:115} INFO - [2023-03-29 23:34:30,521] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:34:30,529] {logging_mixin.py:115} INFO - [2023-03-29 23:34:30,529] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:34:30,533] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.398 seconds
+[2023-03-29 23:35:51,942] {processor.py:153} INFO - Started process (PID=13269) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:35:51,942] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:35:51,942] {logging_mixin.py:115} INFO - [2023-03-29 23:35:51,942] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:35:52,477] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:35:52,519] {logging_mixin.py:115} INFO - [2023-03-29 23:35:52,519] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:35:52,531] {logging_mixin.py:115} INFO - [2023-03-29 23:35:52,531] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:35:52,541] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.600 seconds
+[2023-03-29 23:36:50,103] {processor.py:153} INFO - Started process (PID=13377) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:36:50,104] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:36:50,104] {logging_mixin.py:115} INFO - [2023-03-29 23:36:50,104] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:36:50,479] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:36:50,509] {logging_mixin.py:115} INFO - [2023-03-29 23:36:50,509] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:36:50,517] {logging_mixin.py:115} INFO - [2023-03-29 23:36:50,517] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:36:50,522] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.420 seconds
+[2023-03-29 23:37:38,279] {processor.py:153} INFO - Started process (PID=13456) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:37:38,280] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:37:38,280] {logging_mixin.py:115} INFO - [2023-03-29 23:37:38,280] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:37:38,629] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:37:38,660] {logging_mixin.py:115} INFO - [2023-03-29 23:37:38,660] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:37:38,668] {logging_mixin.py:115} INFO - [2023-03-29 23:37:38,668] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:37:38,673] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.394 seconds
+[2023-03-29 23:38:29,234] {processor.py:153} INFO - Started process (PID=13543) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:38:29,234] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:38:29,235] {logging_mixin.py:115} INFO - [2023-03-29 23:38:29,235] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:38:29,600] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:38:29,629] {logging_mixin.py:115} INFO - [2023-03-29 23:38:29,629] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:38:29,637] {logging_mixin.py:115} INFO - [2023-03-29 23:38:29,637] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:38:29,642] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.408 seconds
+[2023-03-29 23:38:48,554] {processor.py:153} INFO - Started process (PID=13582) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:38:48,554] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:38:48,555] {logging_mixin.py:115} INFO - [2023-03-29 23:38:48,554] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:38:49,085] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:38:49,125] {logging_mixin.py:115} INFO - [2023-03-29 23:38:49,125] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:38:49,136] {logging_mixin.py:115} INFO - [2023-03-29 23:38:49,136] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:38:49,145] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.592 seconds
+[2023-03-29 23:39:44,418] {processor.py:153} INFO - Started process (PID=13696) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:39:44,419] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:39:44,419] {logging_mixin.py:115} INFO - [2023-03-29 23:39:44,419] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:39:44,796] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:39:45,181] {logging_mixin.py:115} INFO - [2023-03-29 23:39:45,181] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:39:45,188] {logging_mixin.py:115} INFO - [2023-03-29 23:39:45,188] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:39:45,194] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.776 seconds
+[2023-03-29 23:40:06,027] {processor.py:153} INFO - Started process (PID=13740) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:40:06,028] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:40:06,028] {logging_mixin.py:115} INFO - [2023-03-29 23:40:06,028] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:40:06,550] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:40:06,565] {logging_mixin.py:115} INFO - [2023-03-29 23:40:06,564] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:40:06,595] {logging_mixin.py:115} INFO - [2023-03-29 23:40:06,595] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:40:06,602] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.575 seconds
+[2023-03-29 23:41:03,677] {processor.py:153} INFO - Started process (PID=13852) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:41:03,677] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:41:03,677] {logging_mixin.py:115} INFO - [2023-03-29 23:41:03,677] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:41:04,050] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:41:04,080] {logging_mixin.py:115} INFO - [2023-03-29 23:41:04,080] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:41:04,088] {logging_mixin.py:115} INFO - [2023-03-29 23:41:04,088] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:41:04,093] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.417 seconds
+[2023-03-29 23:41:51,205] {processor.py:153} INFO - Started process (PID=13935) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:41:51,205] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:41:51,206] {logging_mixin.py:115} INFO - [2023-03-29 23:41:51,206] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:41:51,561] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:41:51,591] {logging_mixin.py:115} INFO - [2023-03-29 23:41:51,591] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:41:51,599] {logging_mixin.py:115} INFO - [2023-03-29 23:41:51,599] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:41:51,603] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.399 seconds
+[2023-03-29 23:42:41,656] {processor.py:153} INFO - Started process (PID=14036) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:42:41,657] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:42:41,657] {logging_mixin.py:115} INFO - [2023-03-29 23:42:41,657] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:42:41,995] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:42:42,026] {logging_mixin.py:115} INFO - [2023-03-29 23:42:42,026] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:42:42,034] {logging_mixin.py:115} INFO - [2023-03-29 23:42:42,034] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:42:42,038] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.383 seconds
+[2023-03-29 23:43:32,886] {processor.py:153} INFO - Started process (PID=14176) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:43:32,887] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:43:32,887] {logging_mixin.py:115} INFO - [2023-03-29 23:43:32,887] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:43:33,263] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:43:33,293] {logging_mixin.py:115} INFO - [2023-03-29 23:43:33,292] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:43:33,300] {logging_mixin.py:115} INFO - [2023-03-29 23:43:33,300] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:43:33,305] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.419 seconds
+[2023-03-29 23:44:19,568] {processor.py:153} INFO - Started process (PID=14255) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:44:19,569] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:44:19,569] {logging_mixin.py:115} INFO - [2023-03-29 23:44:19,569] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:44:19,939] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:44:19,971] {logging_mixin.py:115} INFO - [2023-03-29 23:44:19,971] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:44:19,979] {logging_mixin.py:115} INFO - [2023-03-29 23:44:19,979] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:44:19,984] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.416 seconds
+[2023-03-29 23:45:05,398] {processor.py:153} INFO - Started process (PID=14338) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:45:05,398] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:45:05,399] {logging_mixin.py:115} INFO - [2023-03-29 23:45:05,399] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:45:05,740] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:45:05,771] {logging_mixin.py:115} INFO - [2023-03-29 23:45:05,770] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:45:05,778] {logging_mixin.py:115} INFO - [2023-03-29 23:45:05,778] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:45:05,783] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.385 seconds
+[2023-03-29 23:45:51,939] {processor.py:153} INFO - Started process (PID=14422) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:45:51,939] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:45:51,940] {logging_mixin.py:115} INFO - [2023-03-29 23:45:51,940] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:45:52,290] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:45:52,320] {logging_mixin.py:115} INFO - [2023-03-29 23:45:52,320] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:45:52,328] {logging_mixin.py:115} INFO - [2023-03-29 23:45:52,328] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:45:52,333] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.394 seconds
+[2023-03-29 23:46:40,057] {processor.py:153} INFO - Started process (PID=14564) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:46:40,058] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:46:40,058] {logging_mixin.py:115} INFO - [2023-03-29 23:46:40,058] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:46:40,418] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:46:40,448] {logging_mixin.py:115} INFO - [2023-03-29 23:46:40,448] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:46:40,456] {logging_mixin.py:115} INFO - [2023-03-29 23:46:40,456] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:46:40,460] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.404 seconds
+[2023-03-29 23:47:30,368] {processor.py:153} INFO - Started process (PID=14644) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:47:30,369] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:47:30,369] {logging_mixin.py:115} INFO - [2023-03-29 23:47:30,369] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:47:30,711] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:47:30,742] {logging_mixin.py:115} INFO - [2023-03-29 23:47:30,742] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:47:30,749] {logging_mixin.py:115} INFO - [2023-03-29 23:47:30,749] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:47:30,754] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.386 seconds
+[2023-03-29 23:48:22,511] {processor.py:153} INFO - Started process (PID=14741) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:48:22,512] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:48:22,512] {logging_mixin.py:115} INFO - [2023-03-29 23:48:22,512] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:48:22,860] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:48:22,890] {logging_mixin.py:115} INFO - [2023-03-29 23:48:22,890] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:48:22,898] {logging_mixin.py:115} INFO - [2023-03-29 23:48:22,898] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:48:22,903] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.393 seconds
+[2023-03-29 23:49:08,931] {processor.py:153} INFO - Started process (PID=14823) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:49:08,931] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:49:08,931] {logging_mixin.py:115} INFO - [2023-03-29 23:49:08,931] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:49:09,298] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:49:09,329] {logging_mixin.py:115} INFO - [2023-03-29 23:49:09,329] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:49:09,337] {logging_mixin.py:115} INFO - [2023-03-29 23:49:09,337] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:49:09,341] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.411 seconds
+[2023-03-29 23:50:00,694] {processor.py:153} INFO - Started process (PID=14912) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:50:00,694] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:50:00,694] {logging_mixin.py:115} INFO - [2023-03-29 23:50:00,694] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:50:00,942] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:50:01,260] {logging_mixin.py:115} INFO - [2023-03-29 23:50:01,260] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:50:01,267] {logging_mixin.py:115} INFO - [2023-03-29 23:50:01,267] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:50:01,273] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.580 seconds
+[2023-03-29 23:50:19,580] {processor.py:153} INFO - Started process (PID=14963) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:50:19,581] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:50:19,581] {logging_mixin.py:115} INFO - [2023-03-29 23:50:19,581] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:50:20,049] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:50:20,063] {logging_mixin.py:115} INFO - [2023-03-29 23:50:20,063] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:50:20,098] {logging_mixin.py:115} INFO - [2023-03-29 23:50:20,098] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:50:20,106] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.526 seconds
+[2023-03-29 23:51:15,502] {processor.py:153} INFO - Started process (PID=15077) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:51:15,503] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:51:15,503] {logging_mixin.py:115} INFO - [2023-03-29 23:51:15,503] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:51:15,864] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:51:16,200] {logging_mixin.py:115} INFO - [2023-03-29 23:51:16,200] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:51:16,208] {logging_mixin.py:115} INFO - [2023-03-29 23:51:16,208] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:51:16,215] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.713 seconds
+[2023-03-29 23:52:07,214] {processor.py:153} INFO - Started process (PID=15176) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:52:07,215] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:52:07,215] {logging_mixin.py:115} INFO - [2023-03-29 23:52:07,215] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:52:07,572] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:52:07,602] {logging_mixin.py:115} INFO - [2023-03-29 23:52:07,602] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:52:07,610] {logging_mixin.py:115} INFO - [2023-03-29 23:52:07,610] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:52:07,615] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.401 seconds
+[2023-03-29 23:52:58,392] {processor.py:153} INFO - Started process (PID=15269) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:52:58,392] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:52:58,393] {logging_mixin.py:115} INFO - [2023-03-29 23:52:58,393] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:52:58,730] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:52:58,760] {logging_mixin.py:115} INFO - [2023-03-29 23:52:58,760] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:52:58,768] {logging_mixin.py:115} INFO - [2023-03-29 23:52:58,768] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:52:58,772] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.381 seconds
+[2023-03-29 23:53:45,119] {processor.py:153} INFO - Started process (PID=15385) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:53:45,120] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:53:45,120] {logging_mixin.py:115} INFO - [2023-03-29 23:53:45,120] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:53:45,481] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:53:45,511] {logging_mixin.py:115} INFO - [2023-03-29 23:53:45,511] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:53:45,519] {logging_mixin.py:115} INFO - [2023-03-29 23:53:45,519] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:53:45,523] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.405 seconds
+[2023-03-29 23:54:34,553] {processor.py:153} INFO - Started process (PID=15465) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:54:34,554] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:54:34,555] {logging_mixin.py:115} INFO - [2023-03-29 23:54:34,555] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:54:34,905] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:54:34,935] {logging_mixin.py:115} INFO - [2023-03-29 23:54:34,935] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:54:34,943] {logging_mixin.py:115} INFO - [2023-03-29 23:54:34,943] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:54:34,948] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.395 seconds
+[2023-03-29 23:55:24,819] {processor.py:153} INFO - Started process (PID=15566) to work on /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:55:24,819] {processor.py:641} INFO - Processing file /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py for tasks to queue
+[2023-03-29 23:55:24,819] {logging_mixin.py:115} INFO - [2023-03-29 23:55:24,819] {dagbag.py:507} INFO - Filling up the DagBag from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:55:25,064] {processor.py:651} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py
+[2023-03-29 23:55:25,096] {logging_mixin.py:115} INFO - [2023-03-29 23:55:25,096] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-29 23:55:25,104] {logging_mixin.py:115} INFO - [2023-03-29 23:55:25,104] {dag.py:2927} INFO - Setting next_dagrun for weather_dag to 2023-03-27T00:00:00+00:00, run_after=2023-04-03T00:00:00+00:00
+[2023-03-29 23:55:25,109] {processor.py:161} INFO - Processing /Users/gabrielroger/Documents/projects/weather-data/dags/weather_dag.py took 0.291 seconds

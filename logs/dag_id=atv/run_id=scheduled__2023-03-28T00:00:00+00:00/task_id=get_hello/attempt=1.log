@@ -1,0 +1,24 @@
+[2023-03-29 22:18:48,981] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: atv.get_hello scheduled__2023-03-28T00:00:00+00:00 [queued]>
+[2023-03-29 22:18:48,983] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: atv.get_hello scheduled__2023-03-28T00:00:00+00:00 [queued]>
+[2023-03-29 22:18:48,983] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-29 22:18:48,983] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2023-03-29 22:18:48,983] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-29 22:18:48,989] {taskinstance.py:1377} INFO - Executing <Task(PythonOperator): get_hello> on 2023-03-28 00:00:00+00:00
+[2023-03-29 22:18:48,995] {standard_task_runner.py:52} INFO - Started process 5178 to run task
+[2023-03-29 22:18:48,999] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'atv', 'get_hello', 'scheduled__2023-03-28T00:00:00+00:00', '--job-id', '29', '--raw', '--subdir', 'DAGS_FOLDER/atv.py', '--cfg-path', '/var/folders/1t/ncp0s87s3bd37gfvks3bsb3w0000gn/T/tmpab0iqdr2', '--error-file', '/var/folders/1t/ncp0s87s3bd37gfvks3bsb3w0000gn/T/tmpq_0lxn7v']
+[2023-03-29 22:18:49,001] {standard_task_runner.py:80} INFO - Job 29: Subtask get_hello
+[2023-03-29 22:18:49,028] {task_command.py:370} INFO - Running <TaskInstance: atv.get_hello scheduled__2023-03-28T00:00:00+00:00 [running]> on host MacBook-Air-de-Gabriel.local
+[2023-03-29 22:18:49,051] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=atv
+AIRFLOW_CTX_TASK_ID=get_hello
+AIRFLOW_CTX_EXECUTION_DATE=2023-03-28T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-03-28T00:00:00+00:00
+[2023-03-29 22:18:49,051] {logging_mixin.py:115} INFO - opa, hello
+[2023-03-29 22:18:49,051] {python.py:173} INFO - Done. Returned value was: None
+[2023-03-29 22:18:49,055] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=atv, task_id=get_hello, execution_date=20230328T000000, start_date=20230330T011848, end_date=20230330T011849
+[2023-03-29 22:18:49,060] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-03-29 22:18:49,070] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check
